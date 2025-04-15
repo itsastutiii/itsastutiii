@@ -1,6 +1,6 @@
 ## Hi! I'm Astuti :)
 🏰 I'm a 3rd year CS student at GRIET, Hyderabad <br/>
-🫀 i love hackathons (6x winner) and that's my primary use of github - storing, collaborating and working on projects with my team!<br/>
+🫀 i love hackathons (7x winner) and that's my primary use of github - storing, collaborating and working on projects with my team!<br/>
 ✨ i yap a lot on Linkedin if you want to say hi<br/>
 👾 my projects are all about tech for social good - mostly mobile apps :3 <br/>
 
